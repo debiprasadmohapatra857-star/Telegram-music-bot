@@ -1,2 +1,2 @@
-# Telegram-music-bot
-Telegram music bot 
+# Telegram Music Bot
+Set BOT_TOKEN in Render environment variables.
